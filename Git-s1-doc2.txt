@@ -1,0 +1,9 @@
+documento 2
+
+preparación de git ..
+
+versiones
+
+1. confirmado
+2. modificado
+3. preparado
